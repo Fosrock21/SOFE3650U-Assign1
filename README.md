@@ -31,5 +31,8 @@ The repository includes a comprehensive set of test methods within the `GroceryS
 
 ## Screenshots
 
-The `screenshots` folder contains screenshots of the test results executed. These screenshots demonstrate the successful execution of various test cases.
+The `screenshots` folder contains screenshots of the test results executed. These screenshots demonstrate the successful execution of various test cases (diffrent prices).
+
+![image](https://github.com/Fosrock21/SOFE3650U-Assign1/assets/114538241/a9aa4211-755e-4a00-9ea9-b73d4d5ba7e6)
+![image](https://github.com/Fosrock21/SOFE3650U-Assign1/assets/114538241/f087f341-6416-4b4f-8101-1cc317fc203f)
 
