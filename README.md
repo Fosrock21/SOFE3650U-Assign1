@@ -36,3 +36,7 @@ The `screenshots` folder contains screenshots of the test results executed. Thes
 ![image](https://github.com/Fosrock21/SOFE3650U-Assign1/assets/114538241/a9aa4211-755e-4a00-9ea9-b73d4d5ba7e6)
 ![image](https://github.com/Fosrock21/SOFE3650U-Assign1/assets/114538241/f087f341-6416-4b4f-8101-1cc317fc203f)
 
+UML class diagram 
+<img width="346" alt="image" src="https://github.com/Fosrock21/SOFE3650U-Assign1/assets/114538241/bd26b918-c858-477d-b37c-3b4428e3ff53">
+
+
